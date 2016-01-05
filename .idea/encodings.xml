@@ -5,6 +5,13 @@
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_media_fullscreen_stretch.png" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_media_pause.png" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_media_play.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_media_player.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_media_player_disabled.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_media_player_disabled_selected.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_media_player_pressed.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/btn_media_player_selected.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_media_pause.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_media_play.png" charset="windows-1252" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
